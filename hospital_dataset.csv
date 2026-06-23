@@ -1,0 +1,201 @@
+patient_id,name,age,gender,disease,doctor,department,admission_date,discharge_date,bill_amount,city
+1,Priya,56,Female,Fever,Dr. Mehta,Cardiology,2025-03-04,2025-03-05,42262,Udupi
+2,Meena,46,Male,Heart Disease,Dr. Patel,General,2025-03-25,2025-03-27,14405,Bangalore
+3,Ravi,43,Female,Fever,Dr. Rao,General,2025-03-08,2025-03-11,22914,Bangalore
+4,Arjun,69,Female,Fever,Dr. Nair,Endocrinology,2025-01-16,2025-01-25,22409,Bangalore
+5,Ravi,57,Female,Diabetes,Dr. Patel,Oncology,2025-04-11,2025-04-12,12079,Mysore
+6,Rahul,43,Male,Asthma,Dr. Sharma,Oncology,2025-03-08,2025-03-11,35268,Mangalore
+7,Sneha,44,Female,Fever,Dr. Nair,Oncology,2025-03-02,2025-03-08,2371,Mysore
+8,Meena,68,Female,Fever,Dr. Patel,Cardiology,2025-04-08,2025-04-14,12569,Mangalore
+9,Sneha,72,Female,Asthma,Dr. Sharma,General,2025-01-11,2025-01-14,26918,Mangalore
+10,Arjun,59,Female,Fever,Dr. Rao,Oncology,2025-03-18,2025-03-21,23537,Udupi
+11,Priya,67,Female,Heart Disease,Dr. Nair,Pulmonology,2025-02-20,2025-03-01,35283,Hubli
+12,Ravi,36,Female,Diabetes,Dr. Rao,General,2025-03-29,2025-04-04,22157,Udupi
+13,Ravi,66,Female,Asthma,Dr. Mehta,Oncology,2025-02-07,2025-02-15,34401,Mangalore
+14,Arjun,58,Male,Cancer,Dr. Patel,Cardiology,2025-03-23,2025-03-27,13548,Udupi
+15,Ravi,48,Female,Fever,Dr. Rao,Oncology,2025-04-20,2025-04-24,23349,Mysore
+16,Kiran,27,Male,Heart Disease,Dr. Patel,Cardiology,2025-04-09,2025-04-19,15375,Bangalore
+17,Divya,37,Female,Cancer,Dr. Sharma,Endocrinology,2025-01-13,2025-01-21,30285,Mysore
+18,Kiran,59,Male,Diabetes,Dr. Mehta,Oncology,2025-01-12,2025-01-14,18589,Mangalore
+19,Arjun,22,Male,Asthma,Dr. Rao,General,2025-01-11,2025-01-12,34266,Mysore
+20,Divya,73,Female,Heart Disease,Dr. Sharma,Endocrinology,2025-02-10,2025-02-16,16423,Mangalore
+21,Sneha,20,Male,Diabetes,Dr. Rao,Pulmonology,2025-04-28,2025-05-07,18379,Udupi
+22,Vikram,19,Female,Infection,Dr. Patel,Cardiology,2025-01-18,2025-01-26,25802,Hubli
+23,Divya,33,Male,Cancer,Dr. Rao,Cardiology,2025-01-06,2025-01-08,16743,Mysore
+24,Arjun,20,Male,Asthma,Dr. Nair,Pulmonology,2025-01-31,2025-02-07,12677,Udupi
+25,Ravi,78,Female,Covid,Dr. Rao,Endocrinology,2025-02-10,2025-02-19,7702,Hubli
+26,Divya,55,Female,Cancer,Dr. Nair,Oncology,2025-01-05,2025-01-13,25594,Udupi
+27,Divya,69,Female,Covid,Dr. Nair,Cardiology,2025-04-23,2025-04-25,31529,Udupi
+28,Divya,26,Female,Diabetes,Dr. Sharma,Pulmonology,2025-01-16,2025-01-18,9612,Mysore
+29,Ravi,26,Female,Asthma,Dr. Mehta,Cardiology,2025-01-02,2025-01-09,10106,Mangalore
+30,Rahul,74,Male,Diabetes,Dr. Patel,Pulmonology,2025-04-16,2025-04-20,14441,Mysore
+31,Divya,37,Male,Asthma,Dr. Patel,Endocrinology,2025-04-09,2025-04-11,41788,Hubli
+32,Sneha,27,Female,Diabetes,Dr. Patel,General,2025-01-09,2025-01-13,7566,Mangalore
+33,Arjun,20,Male,Heart Disease,Dr. Sharma,Endocrinology,2025-03-15,2025-03-21,48327,Bangalore
+34,Kiran,29,Male,Cancer,Dr. Sharma,Oncology,2025-04-09,2025-04-11,32641,Mangalore
+35,Rahul,52,Male,Heart Disease,Dr. Patel,Cardiology,2025-03-18,2025-03-25,3928,Mangalore
+36,Kiran,64,Female,Cancer,Dr. Rao,Cardiology,2025-03-14,2025-03-24,23977,Mangalore
+37,Ravi,26,Male,Heart Disease,Dr. Mehta,Oncology,2025-03-14,2025-03-18,40371,Mysore
+38,Meena,24,Female,Diabetes,Dr. Patel,Endocrinology,2025-01-23,2025-01-24,38821,Mysore
+39,Divya,67,Male,Infection,Dr. Patel,Endocrinology,2025-04-10,2025-04-20,15168,Hubli
+40,Anita,22,Male,Asthma,Dr. Rao,Cardiology,2025-03-12,2025-03-13,4229,Mangalore
+41,Vikram,33,Female,Heart Disease,Dr. Patel,Endocrinology,2025-04-11,2025-04-12,31231,Mysore
+42,Vikram,68,Female,Fever,Dr. Mehta,Oncology,2025-01-20,2025-01-22,31033,Mysore
+43,Vikram,67,Female,Fever,Dr. Patel,Pulmonology,2025-02-01,2025-02-07,4251,Hubli
+44,Kiran,74,Female,Asthma,Dr. Patel,Endocrinology,2025-04-24,2025-05-02,7187,Mangalore
+45,Arjun,35,Male,Cancer,Dr. Nair,General,2025-02-05,2025-02-15,25558,Hubli
+46,Rahul,51,Male,Infection,Dr. Sharma,Pulmonology,2025-03-18,2025-03-19,21435,Bangalore
+47,Anita,57,Male,Heart Disease,Dr. Mehta,General,2025-02-18,2025-02-20,15093,Mangalore
+48,Rahul,49,Male,Diabetes,Dr. Sharma,Cardiology,2025-01-29,2025-02-01,11166,Udupi
+49,Rahul,53,Male,Covid,Dr. Rao,Endocrinology,2025-03-06,2025-03-11,48724,Mysore
+50,Anita,37,Male,Cancer,Dr. Patel,Oncology,2025-03-25,2025-03-28,43747,Mysore
+51,Meena,47,Female,Infection,Dr. Nair,Cardiology,2025-04-27,2025-05-06,28608,Mysore
+52,Anita,27,Female,Covid,Dr. Sharma,Endocrinology,2025-01-28,2025-01-30,39143,Mysore
+53,Divya,67,Male,Fever,Dr. Rao,Pulmonology,2025-03-30,2025-04-05,49768,Udupi
+54,Ravi,27,Male,Asthma,Dr. Patel,Endocrinology,2025-03-27,2025-03-30,27461,Udupi
+55,Rahul,64,Male,Covid,Dr. Patel,Endocrinology,2025-01-22,2025-01-29,39395,Mangalore
+56,Anita,72,Female,Fever,Dr. Mehta,Oncology,2025-02-01,2025-02-05,31773,Bangalore
+57,Sneha,56,Male,Asthma,Dr. Mehta,Cardiology,2025-04-27,2025-04-28,12717,Udupi
+58,Divya,61,Male,Asthma,Dr. Patel,Endocrinology,2025-04-13,2025-04-14,3413,Bangalore
+59,Priya,61,Female,Covid,Dr. Patel,Endocrinology,2025-01-08,2025-01-09,33293,Mangalore
+60,Sneha,75,Male,Diabetes,Dr. Rao,Oncology,2025-01-21,2025-01-24,11490,Mysore
+61,Sneha,51,Male,Diabetes,Dr. Nair,General,2025-03-19,2025-03-25,29497,Bangalore
+62,Vikram,64,Male,Diabetes,Dr. Rao,Cardiology,2025-01-20,2025-01-29,41103,Mangalore
+63,Rahul,68,Female,Diabetes,Dr. Mehta,Pulmonology,2025-01-14,2025-01-18,19683,Bangalore
+64,Ravi,42,Male,Heart Disease,Dr. Patel,General,2025-01-02,2025-01-04,41421,Hubli
+65,Priya,64,Male,Infection,Dr. Nair,Oncology,2025-01-16,2025-01-18,42110,Udupi
+66,Meena,48,Male,Fever,Dr. Nair,General,2025-02-24,2025-03-02,30186,Hubli
+67,Sneha,56,Female,Cancer,Dr. Nair,Pulmonology,2025-01-17,2025-01-23,46268,Hubli
+68,Anita,61,Female,Diabetes,Dr. Nair,Endocrinology,2025-03-10,2025-03-18,28967,Bangalore
+69,Divya,39,Male,Covid,Dr. Nair,Oncology,2025-02-10,2025-02-19,19460,Mysore
+70,Vikram,20,Female,Cancer,Dr. Mehta,Cardiology,2025-02-20,2025-03-01,28893,Hubli
+71,Meena,65,Female,Asthma,Dr. Nair,Endocrinology,2025-03-26,2025-03-28,32469,Hubli
+72,Sneha,69,Male,Fever,Dr. Mehta,Endocrinology,2025-01-02,2025-01-05,27809,Mangalore
+73,Arjun,75,Male,Fever,Dr. Sharma,Endocrinology,2025-03-29,2025-03-31,22959,Mangalore
+74,Arjun,44,Male,Diabetes,Dr. Patel,Oncology,2025-02-20,2025-02-23,11701,Mangalore
+75,Anita,76,Male,Diabetes,Dr. Patel,Pulmonology,2025-03-28,2025-04-06,37129,Hubli
+76,Meena,23,Male,Fever,Dr. Nair,General,2025-02-28,2025-03-06,41139,Mangalore
+77,Meena,44,Male,Heart Disease,Dr. Nair,Cardiology,2025-02-22,2025-02-28,34279,Mysore
+78,Anita,63,Male,Cancer,Dr. Sharma,General,2025-02-25,2025-02-26,8383,Mangalore
+79,Divya,60,Female,Covid,Dr. Patel,Pulmonology,2025-04-26,2025-05-01,41176,Mangalore
+80,Sneha,60,Male,Infection,Dr. Rao,Cardiology,2025-03-07,2025-03-16,35781,Bangalore
+81,Rahul,71,Female,Fever,Dr. Patel,Pulmonology,2025-03-21,2025-03-24,46284,Mysore
+82,Rahul,51,Female,Covid,Dr. Rao,Cardiology,2025-01-10,2025-01-12,22048,Bangalore
+83,Divya,35,Male,Asthma,Dr. Rao,General,2025-01-05,2025-01-12,27443,Udupi
+84,Kiran,27,Female,Heart Disease,Dr. Rao,Endocrinology,2025-01-29,2025-02-01,8178,Mangalore
+85,Arjun,77,Male,Infection,Dr. Mehta,Pulmonology,2025-01-10,2025-01-12,29221,Bangalore
+86,Priya,62,Female,Heart Disease,Dr. Patel,Pulmonology,2025-04-06,2025-04-16,24352,Mysore
+87,Anita,37,Female,Heart Disease,Dr. Mehta,Oncology,2025-04-19,2025-04-26,36611,Mysore
+88,Sneha,64,Female,Heart Disease,Dr. Rao,Oncology,2025-01-26,2025-02-03,11171,Mysore
+89,Kiran,80,Male,Asthma,Dr. Sharma,Oncology,2025-03-22,2025-03-25,32658,Bangalore
+90,Priya,65,Female,Cancer,Dr. Nair,Cardiology,2025-02-04,2025-02-10,42369,Udupi
+91,Divya,34,Female,Cancer,Dr. Nair,Pulmonology,2025-02-27,2025-03-01,45275,Mysore
+92,Anita,46,Female,Infection,Dr. Patel,Endocrinology,2025-02-23,2025-02-27,25426,Udupi
+93,Anita,76,Female,Diabetes,Dr. Sharma,Endocrinology,2025-01-31,2025-02-08,15139,Bangalore
+94,Anita,42,Male,Covid,Dr. Patel,General,2025-03-05,2025-03-15,9428,Udupi
+95,Vikram,26,Male,Infection,Dr. Nair,Cardiology,2025-04-25,2025-05-04,39657,Bangalore
+96,Ravi,66,Male,Infection,Dr. Sharma,General,2025-04-19,2025-04-20,18346,Hubli
+97,Anita,32,Female,Heart Disease,Dr. Patel,Endocrinology,2025-03-13,2025-03-22,49960,Udupi
+98,Meena,26,Female,Infection,Dr. Mehta,Oncology,2025-04-16,2025-04-23,2775,Bangalore
+99,Kiran,35,Male,Cancer,Dr. Sharma,Oncology,2025-04-02,2025-04-05,47527,Mangalore
+100,Kiran,49,Male,Cancer,Dr. Rao,Cardiology,2025-04-02,2025-04-09,39156,Hubli
+101,Arjun,77,Female,Cancer,Dr. Rao,Endocrinology,2025-01-08,2025-01-18,37540,Mangalore
+102,Divya,23,Female,Fever,Dr. Rao,Endocrinology,2025-03-09,2025-03-14,20491,Bangalore
+103,Meena,41,Female,Asthma,Dr. Sharma,General,2025-04-10,2025-04-11,19683,Mangalore
+104,Kiran,70,Male,Fever,Dr. Mehta,Pulmonology,2025-05-01,2025-05-07,8257,Mysore
+105,Vikram,22,Male,Fever,Dr. Mehta,Endocrinology,2025-01-25,2025-02-03,34713,Mysore
+106,Vikram,77,Female,Cancer,Dr. Patel,Oncology,2025-01-06,2025-01-12,4341,Mangalore
+107,Priya,41,Female,Heart Disease,Dr. Sharma,Endocrinology,2025-04-23,2025-04-24,17483,Mangalore
+108,Vikram,33,Female,Heart Disease,Dr. Sharma,Endocrinology,2025-02-19,2025-02-28,8249,Hubli
+109,Meena,78,Male,Diabetes,Dr. Mehta,Cardiology,2025-03-04,2025-03-06,10824,Mysore
+110,Sneha,32,Male,Asthma,Dr. Nair,Pulmonology,2025-03-28,2025-04-07,27969,Bangalore
+111,Priya,38,Male,Fever,Dr. Patel,General,2025-02-14,2025-02-19,23527,Mysore
+112,Ravi,67,Male,Cancer,Dr. Mehta,Cardiology,2025-01-12,2025-01-19,4669,Mangalore
+113,Rahul,20,Female,Asthma,Dr. Nair,Pulmonology,2025-01-20,2025-01-29,6029,Bangalore
+114,Ravi,47,Male,Fever,Dr. Patel,Endocrinology,2025-01-11,2025-01-16,8471,Mysore
+115,Vikram,71,Male,Asthma,Dr. Nair,General,2025-01-17,2025-01-24,46718,Hubli
+116,Meena,55,Male,Covid,Dr. Mehta,Pulmonology,2025-04-18,2025-04-21,40261,Mysore
+117,Sneha,40,Female,Diabetes,Dr. Nair,Oncology,2025-03-27,2025-04-05,9033,Udupi
+118,Arjun,62,Female,Fever,Dr. Patel,Oncology,2025-03-31,2025-04-09,14306,Bangalore
+119,Sneha,51,Female,Asthma,Dr. Rao,Cardiology,2025-03-24,2025-03-27,5691,Udupi
+120,Kiran,46,Female,Infection,Dr. Nair,Endocrinology,2025-01-31,2025-02-07,11195,Mysore
+121,Vikram,72,Male,Asthma,Dr. Rao,Pulmonology,2025-02-25,2025-03-02,48752,Hubli
+122,Anita,71,Female,Asthma,Dr. Patel,Endocrinology,2025-01-10,2025-01-11,4075,Udupi
+123,Kiran,77,Female,Asthma,Dr. Patel,Oncology,2025-02-28,2025-03-05,37183,Udupi
+124,Divya,69,Female,Infection,Dr. Sharma,Pulmonology,2025-03-04,2025-03-12,21854,Mangalore
+125,Divya,53,Male,Cancer,Dr. Patel,Endocrinology,2025-03-09,2025-03-17,9138,Mysore
+126,Rahul,56,Male,Cancer,Dr. Patel,General,2025-02-24,2025-03-05,7538,Bangalore
+127,Arjun,33,Female,Covid,Dr. Sharma,Pulmonology,2025-01-16,2025-01-23,4097,Udupi
+128,Ravi,24,Male,Cancer,Dr. Patel,Pulmonology,2025-02-22,2025-02-28,35454,Mangalore
+129,Ravi,60,Female,Diabetes,Dr. Patel,Pulmonology,2025-03-06,2025-03-09,6624,Hubli
+130,Sneha,38,Female,Heart Disease,Dr. Patel,General,2025-04-29,2025-05-02,8721,Hubli
+131,Arjun,72,Female,Covid,Dr. Patel,Cardiology,2025-02-25,2025-03-01,17219,Bangalore
+132,Ravi,53,Male,Diabetes,Dr. Sharma,Endocrinology,2025-02-18,2025-02-26,9615,Bangalore
+133,Anita,60,Female,Asthma,Dr. Mehta,Endocrinology,2025-01-30,2025-02-01,49276,Mysore
+134,Priya,54,Female,Diabetes,Dr. Sharma,Cardiology,2025-04-27,2025-04-29,23762,Hubli
+135,Priya,41,Female,Diabetes,Dr. Rao,Cardiology,2025-03-22,2025-03-26,3217,Mangalore
+136,Rahul,78,Male,Diabetes,Dr. Mehta,General,2025-04-09,2025-04-19,39237,Hubli
+137,Rahul,43,Male,Covid,Dr. Nair,Oncology,2025-03-23,2025-03-26,3927,Mangalore
+138,Divya,20,Female,Cancer,Dr. Sharma,General,2025-04-23,2025-04-29,29159,Udupi
+139,Anita,75,Male,Diabetes,Dr. Sharma,Cardiology,2025-02-05,2025-02-14,38939,Udupi
+140,Ravi,66,Female,Diabetes,Dr. Mehta,Cardiology,2025-03-07,2025-03-09,22038,Mysore
+141,Kiran,48,Male,Diabetes,Dr. Sharma,Pulmonology,2025-04-10,2025-04-14,15076,Bangalore
+142,Ravi,63,Male,Asthma,Dr. Mehta,Cardiology,2025-01-14,2025-01-20,18058,Hubli
+143,Ravi,57,Female,Covid,Dr. Nair,Pulmonology,2025-01-17,2025-01-27,10444,Udupi
+144,Divya,18,Male,Heart Disease,Dr. Rao,Pulmonology,2025-02-19,2025-02-25,23301,Hubli
+145,Sneha,80,Female,Fever,Dr. Sharma,Endocrinology,2025-01-16,2025-01-21,6720,Bangalore
+146,Anita,25,Female,Covid,Dr. Rao,Pulmonology,2025-01-16,2025-01-23,26731,Mangalore
+147,Vikram,49,Male,Fever,Dr. Patel,Pulmonology,2025-01-21,2025-01-28,22344,Hubli
+148,Arjun,40,Male,Diabetes,Dr. Nair,Oncology,2025-01-19,2025-01-23,45401,Hubli
+149,Rahul,23,Female,Infection,Dr. Nair,General,2025-03-14,2025-03-23,27085,Mysore
+150,Priya,50,Female,Infection,Dr. Rao,Pulmonology,2025-03-21,2025-03-22,28354,Udupi
+151,Kiran,68,Male,Heart Disease,Dr. Patel,Oncology,2025-03-27,2025-03-28,16971,Udupi
+152,Vikram,21,Female,Fever,Dr. Mehta,Cardiology,2025-02-01,2025-02-04,8586,Bangalore
+153,Kiran,35,Female,Cancer,Dr. Patel,Pulmonology,2025-03-01,2025-03-09,38399,Hubli
+154,Priya,18,Male,Asthma,Dr. Rao,Pulmonology,2025-03-19,2025-03-21,48050,Mangalore
+155,Vikram,40,Male,Fever,Dr. Mehta,Endocrinology,2025-03-25,2025-03-30,23588,Bangalore
+156,Anita,74,Male,Heart Disease,Dr. Rao,General,2025-02-24,2025-03-04,30478,Hubli
+157,Divya,79,Male,Cancer,Dr. Mehta,Endocrinology,2025-04-22,2025-05-02,38014,Bangalore
+158,Arjun,62,Female,Covid,Dr. Nair,Oncology,2025-03-21,2025-03-24,8260,Hubli
+159,Sneha,79,Male,Diabetes,Dr. Sharma,Cardiology,2025-02-01,2025-02-06,26379,Bangalore
+160,Kiran,64,Male,Infection,Dr. Sharma,Pulmonology,2025-02-12,2025-02-22,37704,Udupi
+161,Vikram,71,Male,Cancer,Dr. Mehta,Pulmonology,2025-04-13,2025-04-18,12038,Udupi
+162,Priya,35,Male,Infection,Dr. Nair,Oncology,2025-01-28,2025-02-03,37075,Mysore
+163,Ravi,65,Female,Covid,Dr. Nair,Cardiology,2025-03-11,2025-03-19,21078,Bangalore
+164,Anita,34,Female,Fever,Dr. Rao,Endocrinology,2025-02-03,2025-02-13,13787,Udupi
+165,Divya,48,Male,Fever,Dr. Sharma,Endocrinology,2025-03-14,2025-03-24,7985,Mangalore
+166,Anita,18,Female,Fever,Dr. Sharma,Endocrinology,2025-03-04,2025-03-11,40289,Udupi
+167,Kiran,74,Female,Fever,Dr. Nair,General,2025-03-30,2025-04-04,18586,Mangalore
+168,Rahul,18,Female,Infection,Dr. Mehta,Pulmonology,2025-02-20,2025-03-01,31159,Bangalore
+169,Rahul,48,Male,Infection,Dr. Patel,Oncology,2025-04-10,2025-04-12,27825,Bangalore
+170,Meena,27,Male,Heart Disease,Dr. Patel,General,2025-04-18,2025-04-26,33434,Udupi
+171,Meena,41,Female,Heart Disease,Dr. Patel,General,2025-04-25,2025-04-26,2166,Bangalore
+172,Rahul,27,Female,Infection,Dr. Sharma,General,2025-04-02,2025-04-05,31914,Hubli
+173,Anita,76,Male,Heart Disease,Dr. Rao,Pulmonology,2025-03-20,2025-03-24,14104,Bangalore
+174,Anita,59,Male,Diabetes,Dr. Sharma,General,2025-04-16,2025-04-23,3092,Hubli
+175,Anita,45,Female,Infection,Dr. Mehta,Oncology,2025-02-19,2025-02-26,27623,Hubli
+176,Kiran,22,Male,Heart Disease,Dr. Mehta,Oncology,2025-04-06,2025-04-07,37521,Mangalore
+177,Meena,40,Female,Asthma,Dr. Patel,General,2025-04-11,2025-04-12,25448,Hubli
+178,Arjun,30,Male,Infection,Dr. Sharma,Oncology,2025-01-01,2025-01-09,38857,Hubli
+179,Arjun,37,Female,Cancer,Dr. Sharma,Cardiology,2025-03-03,2025-03-09,26919,Bangalore
+180,Vikram,62,Male,Covid,Dr. Mehta,Cardiology,2025-01-02,2025-01-08,6793,Mysore
+181,Meena,69,Male,Diabetes,Dr. Nair,Endocrinology,2025-02-27,2025-03-05,28637,Mangalore
+182,Vikram,58,Male,Diabetes,Dr. Nair,Oncology,2025-01-02,2025-01-12,49596,Hubli
+183,Vikram,20,Male,Asthma,Dr. Nair,Cardiology,2025-01-15,2025-01-22,16368,Hubli
+184,Priya,79,Male,Fever,Dr. Rao,Oncology,2025-02-11,2025-02-12,11957,Bangalore
+185,Sneha,18,Female,Cancer,Dr. Mehta,Oncology,2025-03-25,2025-03-29,12042,Udupi
+186,Rahul,39,Male,Cancer,Dr. Mehta,Cardiology,2025-02-25,2025-03-02,15464,Mangalore
+187,Sneha,74,Female,Fever,Dr. Mehta,Oncology,2025-03-02,2025-03-06,3748,Mangalore
+188,Vikram,35,Female,Covid,Dr. Sharma,Pulmonology,2025-03-02,2025-03-05,42634,Mangalore
+189,Ravi,41,Male,Fever,Dr. Nair,Oncology,2025-04-28,2025-05-03,41280,Mangalore
+190,Kiran,20,Female,Covid,Dr. Mehta,General,2025-02-03,2025-02-05,29854,Mangalore
+191,Divya,30,Male,Fever,Dr. Sharma,Oncology,2025-01-12,2025-01-16,5720,Mysore
+192,Vikram,67,Male,Fever,Dr. Rao,Cardiology,2025-01-01,2025-01-05,26011,Hubli
+193,Anita,63,Female,Fever,Dr. Nair,Pulmonology,2025-01-27,2025-02-02,24952,Mangalore
+194,Sneha,77,Male,Infection,Dr. Patel,Pulmonology,2025-04-03,2025-04-06,27382,Hubli
+195,Sneha,38,Female,Infection,Dr. Patel,Oncology,2025-04-01,2025-04-07,9297,Bangalore
+196,Vikram,45,Female,Fever,Dr. Sharma,General,2025-04-05,2025-04-10,2029,Mysore
+197,Sneha,21,Female,Fever,Dr. Nair,Endocrinology,2025-03-06,2025-03-13,48582,Hubli
+198,Priya,46,Female,Diabetes,Dr. Nair,Cardiology,2025-04-05,2025-04-13,5770,Hubli
+199,Rahul,47,Male,Heart Disease,Dr. Sharma,General,2025-02-12,2025-02-14,38199,Hubli
+200,Meena,36,Female,Infection,Dr. Rao,Endocrinology,2025-03-03,2025-03-12,18695,Bangalore

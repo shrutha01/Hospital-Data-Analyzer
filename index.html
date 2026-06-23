@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hospital Patient Data Analyzer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- ── Top Header Bar ── -->
+  <header>
+    <div class="header-left">
+      <h1>Hospital Patient Data Analyzer</h1>
+    </div>
+    <div class="header-right">
+      <label class="upload-btn">
+        Upload CSV
+        <input type="file" id="fileInput" accept=".csv" />
+      </label>
+      <span id="datasetLabel" class="dataset-name">hospital_dataset.csv</span>
+    </div>
+  </header>
+  <!-- ── Main 2-Column Layout ── -->
+  <div class="layout">
+    <!-- LEFT: Operations + Parameters -->
+    <aside class="left-panel">
+      <div class="section-title">Operations</div>
+      <div class="ops-group">
+        <!-- Row 1: Aggregation -->
+        <div class="ops-row">
+          <button class="op-btn" data-op="max">Max</button>
+          <button class="op-btn" data-op="min">Min</button>
+          <button class="op-btn" data-op="count">Count</button>
+          <button class="op-btn" data-op="avg">Average</button>
+        </div>
+        <!-- Row 2: Sorting -->
+        <div class="ops-row">
+          <button class="op-btn" data-op="sort_asc">Sort Asc</button>
+          <button class="op-btn" data-op="sort_desc">Sort Desc</button>
+        </div>
+        <!-- Row 3: Pagination -->
+        <div class="ops-row">
+          <button class="op-btn" data-op="limit">Limit</button>
+          <button class="op-btn" data-op="skip">Skip</button>
+        </div>
+        <!-- Row 4: Comparison -->
+        <div class="ops-row">
+          <button class="op-btn" data-op="gt">Greater Than</button>
+          <button class="op-btn" data-op="lt">Less Than</button>
+          <button class="op-btn" data-op="eq">Equal To</button>
+        </div>
+      </div>
+      <div class="divider"></div>
+      <div class="section-title">Parameters</div>
+      <div id="paramsContainer">
+        <p class="hint-text">Select an operation to set parameters.</p>
+      </div>
+      <button class="run-btn" id="runBtn" onclick="runOperation()" style="display:none;">Run Query</button>
+    </aside>
+    <!-- RIGHT: Query string + Results -->
+    <main class="right-panel">
+      <!-- MongoDB Query string display -->
+      <div class="query-bar">
+        <span class="query-label">Query:</span>
+        <div class="query-box" id="queryBox">— select an operation and run a query —</div>
+      </div>
+      <!-- Results -->
+      <div class="results-area">
+        <div class="results-top">
+          <span class="section-title" style="margin:0;">Results</span>
+          <span class="result-count" id="resultCount"></span>
+        </div>
+        <div id="resultsContainer" class="results-body">
+          <div class="empty-state">
+            <p>Run a query to see results here.</p>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+  <script src="operations.js"></script>
+</body>
+</html>
