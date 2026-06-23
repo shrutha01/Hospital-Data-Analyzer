@@ -26,10 +26,16 @@ Hospital Data Analyzer is a web-based application that allows users to perform v
 ## Project Structure
 
 Hospital-Data-Analyzer/
+
 ├── hospital_dataset.csv
+
 ├── index.html
+
 ├── style.css
+
+
 ├── operations.js
+
 └── README.md
 
 ## How to Run
